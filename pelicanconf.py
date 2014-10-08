@@ -34,3 +34,5 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 STATIC_PATHS = ['images', 'extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+GOOGLE_ANALYTICS = "UA-55419415-3"
+DISQUS_SITENAME = "admastermind.disqus.com"
