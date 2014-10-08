@@ -1,7 +1,7 @@
 Title: Hello World from AdMasterMind
 Date: 2013-08-22 16:08
-Category: Introduction
-Tags: Online Marketing
+Category: introduction
+Tags: online marketing
 Author: Salil Panikkaveettil
 Summary: Introducing AdMasterMind.
 
