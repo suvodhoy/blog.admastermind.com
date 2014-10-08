@@ -8,7 +8,7 @@ SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Asia/Kolkata'
 
 DEFAULT_LANG = u'en'
 
@@ -18,14 +18,15 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('AdMasterMind', 'https://admastermind.com/'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (
+    ("LinkedIn", "http://in.linkedin.com/pub/salil-panikkaveettil/15/333/bba"),
+    ("Facebook", "https://www.facebook.com/salilpa"),
+    ("GitHub", "https://github.com/salilpa"),
+    ("Google+", "https://plus.google.com/+SalilPanikkaveettil"),
+    ("Twitter", "https://twitter.com/salilpa"),)
 
 DEFAULT_PAGINATION = 10
 
