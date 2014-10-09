@@ -13,6 +13,9 @@
     <div class="entry-content">
       {% include 'article_infos.html' %}
       {{ article.content }}
+    {% if article.gumroad %}
+    <div class="gumroad-product-embed" data-gumroad-product-id="{{article.gumroad}}"></div>
+    {% endif %}
     </div><!-- /.entry-content -->
     {% if DISQUS_SITENAME and SITEURL and article.status != "draft" %}
     <div class="comments">

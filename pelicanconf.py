@@ -37,3 +37,5 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 DISQUS_SITENAME = "admastermind"
 GTM_ID = "GTM-WSW63N"
 THEME = "themes/notmyidea"
+PLUGIN_PATHS = ['pelican-plugins']
+PLUGINS = ['sitemap']
