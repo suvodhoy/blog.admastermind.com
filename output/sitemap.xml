@@ -5,35 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://blog.admastermind.com/index.html</loc>
-<lastmod>2014-10-09T16:38:12-00:00</lastmod>
+<lastmod>2014-10-09T16:51:55-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blog.admastermind.com/archives.html</loc>
-<lastmod>2014-10-09T16:38:12-00:00</lastmod>
+<lastmod>2014-10-09T16:51:55-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blog.admastermind.com/tags.html</loc>
-<lastmod>2014-10-09T16:38:12-00:00</lastmod>
+<lastmod>2014-10-09T16:51:55-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blog.admastermind.com/categories.html</loc>
-<lastmod>2014-10-09T16:38:12-00:00</lastmod>
+<lastmod>2014-10-09T16:51:55-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blog.admastermind.com/pages/about-us.html</loc>
-<lastmod>2014-10-09T16:38:12-00:00</lastmod>
+<lastmod>2014-10-09T16:51:55-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -61,6 +61,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://blog.admastermind.com/online-marketing-campaigns-for-lego-activity-table.html</loc>
+<lastmod>2014-10-08T20:00:00-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://blog.admastermind.com/online-marketing-campaigns-for-life-insurance.html</loc>
 <lastmod>2014-10-08T20:00:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -104,6 +111,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://blog.admastermind.com/tag/auto-retailer.html</loc>
 <lastmod>2014-10-09T20:00:00+05:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://blog.admastermind.com/tag/life-insurance.html</loc>
+<lastmod>2014-10-08T20:00:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
