@@ -49,6 +49,7 @@
                         {% for name, link in LINKS %}
                             <li><a href="{{ link }}">{{ name }}</a></li>
                         {% endfor %}
+			{% include "related_posts.html" %}
                         </ul>
                 </div><!-- /.blogroll -->
         {% endif %}

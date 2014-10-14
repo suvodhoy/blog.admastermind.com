@@ -42,4 +42,5 @@ DISQUS_SITENAME = "admastermind"
 GTM_ID = "GTM-WSW63N"
 THEME = "themes/notmyidea"
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['sitemap']
+PLUGINS = ['sitemap', 'related_posts']
+RELATED_POSTS_MAX = 5
