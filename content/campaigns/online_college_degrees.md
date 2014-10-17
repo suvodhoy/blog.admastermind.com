@@ -12,7 +12,7 @@ Main Advertisers for Online College Degrees are
 - [Coursera](http://www.coursera.com/ "Coursera Online College Degrees")
 - [ClassesUSA](http://www.classesusa.com/ "ClassesUSA Online College Degrees")
 - [StudyUSA](http://www.studyusa.com/ "StudyUSA Online College Degrees")
-- [University of Illinois](www.online.uillinois.edu/ "Univeristy of Illinois Online College Degrees")
+- [University of Illinois](http://www.online.uillinois.edu/ "Univeristy of Illinois Online College Degrees")
 - [Learn4Good](http://www.learn4good.com/ "Learn4Good Online College Degrees")
 
 Top Keywords related to online college degrees are as follows

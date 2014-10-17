@@ -10,10 +10,10 @@ Unemployment benefits are payment made by the state or, in the US, a trade union
 Main Advertisers for Unemployment Benefits are 
 
 - [California Unemployment Insurance](http://www.edd.ca.gov/unemployment/ "California Unemployment Benefits")
-- [Division of Unemployment Insurance - Maryland Department](www.dllr.state.md.us/employment/unemployment.shtml "Maryland Unemployment Benefits")
-- [State of Michigan UIA](www.michigan.gov/uia/ "State of Michigan UIA Unemployment Benefits")
+- [Division of Unemployment Insurance - Maryland Department](http://www.dllr.state.md.us/employment/unemployment.shtml "Maryland Unemployment Benefits")
+- [State of Michigan UIA](http://www.michigan.gov/uia/ "State of Michigan UIA Unemployment Benefits")
 - [State of Wisconsin DWD](http://dwd.wisconsin.gov/uiben/ "State of Wisconsin DWD Unemployment Benefits")
-- [Virginia Employment Commission](www.vec.virginia.gov/unemployed "Virginia Employment Commission Unemployment Benefits")
+- [Virginia Employment Commission](http://www.vec.virginia.gov/unemployed "Virginia Employment Commission Unemployment Benefits")
 
 Top Keywords related to unemployment benefits are as follows
 

@@ -11,7 +11,7 @@ Main Advertisers for Wedding Gifts are
 
 - [Amazon](http://www.amazon.com/ "Amazon Wedding Gifts")
 - [Gifts.com](http://www.gifts.com/ "Gifts.com Wedding Gifts")
-- [Crate and Barrel](www.crateandbarrel.com "Crate and Barrel Wedding Gifts")
+- [Crate and Barrel](http://www.crateandbarrel.com "Crate and Barrel Wedding Gifts")
 - [Walmart](http://www.wallmart.com/ "Walmart Wedding Gifts")
 - [Bloomingdales](http://bloomingdales.com/ "Bloomingdales Wedding Gifts")
 

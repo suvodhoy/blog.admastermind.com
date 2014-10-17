@@ -11,7 +11,7 @@ Main Advertisers for Appliance Repair are
 
 - [The Family Handman](http://www.familyhandman.com/ "The Family Handman Appliance Repair")
 - [Appliance Repair Tucson](http://www.appliancerepairtucsonaz.org/ "Appliance Repair Tucson")
-- [Repair Clinic](www.repairclinic.com/ "Repair Clinic Appliance Repair")
+- [Repair Clinic](http://www.repairclinic.com/ "Repair Clinic Appliance Repair")
 - [Fixitnow.com](http://www.fixitnow.com/ "Fixitnow Appliance Repair")
 - [Champion Appliance Care](http://championappliancecare.com/ "Champion Appliance Care")
 
