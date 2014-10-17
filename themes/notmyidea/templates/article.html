@@ -38,3 +38,23 @@
   </article>
 </section>
 {% endblock %}
+{% block metadesc %}
+{% if article.description %}{{ article.description|e }}
+{% elif article.summary %}{{ article.summary|e }}
+{% else%}An article in AdMasterMind blog called {{ article.title|e }}
+{% endif %}
+{% endblock %}
+
+{% block metakey %}
+{% if article.keywords %}
+{% for keyword in article.keywords %}
+    {{ keyword }},
+{% endfor %}
+{% elif article.tags %}
+{% for tag in article.tags %}
+    {{ tag }},
+{% endfor %}
+{% else%}
+admastermind, blog, ppc, adwords tools, adwords scripts, adwords campaigns
+{% endif %}
+{% endblock %}
