@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, plumbing service
 Author: Salil Panikkaveettil
 Summary: How to create efficient online marketing campaigns for plumbing service
+Gumroad: vwtT
 
 Plumbing Services are an array of various services related to installing, repairing and fixing plumbing systems.
 
@@ -25,5 +26,5 @@ Top Keywords related to plumbing service are as follows
 - plumbing services cost
 - professional plumbing service
 
-We have created a [free adwords campaign for plumbing service]("free adwords campaign for plumbing service"). Feel free to download and use it
+We have created a [free adwords campaign for plumbing service](https://gumroad.com/l/vwtT "free adwords campaign for plumbing service"). Feel free to download and use it
 

@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, cabinet refacing
 Author: Salil Panikkaveettil
 Summary: How to create efficient online marketing campaigns for cabinet refacing
+Gumroad: vSfe
 
 Window installation service is provided across United States to install top quality windows which provide protection from storms and severe weather. Usually cabinet refacing comes with vinyl and wood finishes
 
@@ -25,5 +26,5 @@ Top Keywords related to cabinet refacing are as follows
 - cabinet refacing doors
 - diy cabinet refacing
 
-We have created a [free adwords campaign for cabinet refacing]("free adwords campaign for cabinet refacing"). Feel free to download and use it
+We have created a [free adwords campaign for cabinet refacing](https://gumroad.com/l/vSfe "free adwords campaign for cabinet refacing"). Feel free to download and use it
 

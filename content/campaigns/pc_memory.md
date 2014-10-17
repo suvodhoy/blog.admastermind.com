@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, pc memory
 Author: Salil Panikkaveettil
 Summary: How to create efficient online marketing campaigns for pc memory
+Gumroad: xBpu
 
 PC Memory or Computer memory refers to the device to store programs temporarily or permanently. In broad terms, PC memory can be divided into two - Volatile and Non-Volatile. RAM is an example of volatile memory while as Hard Disk is an example of Non-Volatile Memory
 
@@ -25,5 +26,5 @@ Top Keywords related to pc memory are as follows
 - memory pc
 - pc memory card
 
-We have created a [free adwords campaign for pc memory]("free adwords campaign for pc memory"). Feel free to download and use it
+We have created a [free adwords campaign for pc memory](https://gumroad.com/l/xBpu "free adwords campaign for pc memory"). Feel free to download and use it
 

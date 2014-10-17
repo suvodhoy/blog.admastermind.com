@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, storm damage repair
 Author: Salil Panikkaveettil
 Summary: How to create efficient online marketing campaigns for storm damage repair
+Gumroad: iWnrh
 
 Storm Damage Repair are services given to repair houses and other property damaged during a natural calamity like flood or storm.
 
@@ -24,5 +25,5 @@ Top Keywords related to storm damage repair are as follows
 - storm damage restoration
 - termite damage repair
 
-We have created a [free adwords campaign for storm damage repair]("free adwords campaign for storm damage repair"). Feel free to download and use it
+We have created a [free adwords campaign for storm damage repair](https://gumroad.com/l/iWnrh "free adwords campaign for storm damage repair"). Feel free to download and use it
 
