@@ -22,11 +22,9 @@ LINKS = (('AdMasterMind', 'https://admastermind.com/'),)
 
 # Social widget
 SOCIAL = (
-    ("LinkedIn", "http://in.linkedin.com/pub/salil-panikkaveettil/15/333/bba"),
-    ("Facebook", "https://www.facebook.com/salilpa"),
-    ("GitHub", "https://github.com/salilpa"),
-    ("Google+", "https://plus.google.com/+SalilPanikkaveettil"),
-    ("Twitter", "https://twitter.com/salilpa"),)
+    ("Facebook", "https://www.facebook.com/admastermind"),
+    ("Google+", "https://plus.google.com/+AdmastermindCom"),
+    ("Twitter", "https://twitter.com/admastermindcom"),)
 
 DEFAULT_PAGINATION = 10
 
@@ -44,3 +42,4 @@ THEME = "themes/notmyidea"
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['sitemap', 'related_posts']
 RELATED_POSTS_MAX = 5
+MENUITEMS = (("AdMasterMind", "https://www.admastermind.com"),)

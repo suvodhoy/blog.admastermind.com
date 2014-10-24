@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, car insurance
 Author: Suvodhoy Sinha
 Summary: How to create efficient online marketing campaigns for Car Insurance
+Status: draft
 
 Car Insurance - A policy purchased by vehicle owners to mitigate costs associated with getting into an auto accident. Instead of paying out of pocket for auto accidents, people pay annual premiums to an auto insurance company; the company then pays all or most of the costs associated with an auto accident or other vehicle damage.
 

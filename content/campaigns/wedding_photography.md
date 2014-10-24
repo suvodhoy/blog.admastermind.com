@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, wedding photography
 Author: Suvodhoy Sinha
 Summary: How to create efficient online marketing campaigns for Wedding Photography
+Status: draft
 
 Wedding Photography is the photography of activities relating to weddings which encompasses photographs of the couple before marriage  as well as coverage of the wedding and reception.
 

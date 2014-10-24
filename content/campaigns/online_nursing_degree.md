@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, online nursing degree
 Author: Salil Panikkaveettil
 Summary: How to create efficient online marketing campaigns for Online Nursing Degree
+Status: draft
 
 Online Nursing Degree option allows registered nurses to earn a BSN degree while learning remotely. It also offers the flexibility of online learning, 24/7 access to courses and no mandatory login times.
 

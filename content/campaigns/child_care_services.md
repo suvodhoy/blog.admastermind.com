@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, child care services
 Author: Suvodhoy Sinha
 Summary: How to create efficient online marketing campaigns for Child Care Services
+Status: draft
 
 Child Care Services provide out-of-home care of children under compulsory school age, or of primary school age children when school is not open. Includes preschool (kindergarten, pre-kindergarten, nursery school) as well as centers, family day care homes, and before and after school services.
 

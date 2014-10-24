@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, video surveillance services
 Author: Suvodhoy Sinha
 Summary: How to create efficient online marketing campaigns for video surveillance services
+Status: draft
 
 Video surveillance services provide security systems and services in form of video cameras which acts as a deterrent to potential criminals. 
 

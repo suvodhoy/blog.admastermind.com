@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, last minute flights
 Author: Salil Panikkaveettil
 Summary: How to create efficient online marketing campaigns for Last Minute Flights
+Status: draft
 
 When a flight has vacant seats minutes or hours before the flight is due to take off, they sell these seats at a very low cost. Last minute flightsd are lucrative because of the low cost associated with it
 

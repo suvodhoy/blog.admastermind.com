@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, flower delivery
 Author: Suvodhoy Sinha
 Summary: How to create efficient online marketing campaigns for Flower Delivery
+Status: draft
 
 Flowery Delivery consists of raising or selling flowers and ornamental plants together with delivering it to a specified address.
 

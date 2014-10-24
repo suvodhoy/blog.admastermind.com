@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, office supplies
 Author: Suvodhoy Sinha
 Summary: How to create efficient online marketing campaigns for Office Supplies
+Status: draft
 
 Office supplies are broadly defined as day-to-day supplies used on a recurring basis in general business functions and office operations, and are typically non-technical consumables with a singular/limited usefulness and life.
 

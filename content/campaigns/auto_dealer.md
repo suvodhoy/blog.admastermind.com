@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, auto dealers
 Author: Suvodhoy Sinha
 Summary: How to create efficient online marketing campaigns for Auto Dealers
+Status: draft
 
 An Auto Dealership or vehicle local distribution is a business that sells new or used cars at the retail level, based on a dealership contract with an automaker or its sales subsidiary.
 

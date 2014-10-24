@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, unemployment benefits
 Author: Suvodhoy Sinha
 Summary: How to create efficient online marketing campaigns for Unemployment Benefits
+Status: draft
 
 Unemployment benefits are payment made by the state or, in the US, a trade union, to an unemployed person.
 

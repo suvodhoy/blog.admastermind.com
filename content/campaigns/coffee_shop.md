@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, coffee shops
 Author: Suvodhoy Sinha
 Summary: How to create efficient online marketing campaigns for Coffee Shops
+Status: draft
 
 Coffee shops are establishments which primarily serves prepared coffee and other hot beverages. 
 

@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, prepaid cell phones
 Author: Suvodhoy Sinha
 Summary: How to create efficient online marketing campaigns for Prepaid Cell Phones
+Status: draft
 
 A prepaid mobile phone (also commonly referred to as pay-as-you-go, pay-as-you-talk, pay and go, prepaid wireless, or prepay) is a mobile phone for which credit is purchased in advance of service use. The purchased credit is used to pay for mobile phone services at the point the service is accessed or consumed.
 

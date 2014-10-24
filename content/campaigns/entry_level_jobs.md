@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, entry level jobs
 Author: Salil Panikkaveettil
 Summary: How to create efficient online marketing campaigns for Entry Level Jobs
+Status: draft
 
 An entry level job is a any part-time or full-time job that is normally designed or designated for recent graduates of a given discipline, and does not require prior experience in the field or profession
 

@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, life insurance
 Author: Salil Panikkaveettil
 Summary: How to create efficient online marketing campaigns for Life Insurance
+Status: draft
 
 Life insurance is a contract between an insured and an insurer or assurer, where the insurer promises to pay a designated beneficiary a sum of money in exchange for a premium, upon the death of the insured person. Major type of insurance policies are as follows
 

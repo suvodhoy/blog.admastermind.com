@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, emergency roadside assistance
 Author: Salil Panikkaveettil
 Summary: How to create efficient online marketing campaigns for emergency roadside assistance
+Gumroad: aWUL
 
 Emergency Roadside Assistance are services provided to motorists or cyclists whose vehicles have suffered mechanical failure that leaves them stranded. The services iclude helping in jump starting, towing and changing flat tires.
 
@@ -25,5 +26,5 @@ Top Keywords related to emergency roadside assistance are as follows
 - cheap roadside assistance
 - toyota roadside assistance
 
-We have created a [free adwords campaign for emergency roadside assistance]("free adwords campaign for emergency roadside assistance"). Feel free to download and use it
+We have created a [free adwords campaign for emergency roadside assistance](https://gumroad.com/l/aWUL "free adwords campaign for emergency roadside assistance"). Feel free to download and use it
 

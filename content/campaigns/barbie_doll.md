@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, barbie dolls
 Author: Salil Panikkaveettil
 Summary: How to create efficient online marketing campaigns for Barbie Dolls
+Status: draft
 
 Barbie is a adult bodied fashion doll manufactured by the American toy-company [Mattel](http://www.mattel.com/ "Barbie doll manufacturer"). 
 

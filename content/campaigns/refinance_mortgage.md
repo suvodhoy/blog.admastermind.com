@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, refinance mortgage
 Author: Salil Panikkaveettil
 Summary: How to create efficient online marketing campaigns for Refinance Mortgage
+Status: draft
 
 Refinancing is the replacement of an existing debt obligation with another debt obligation under different terms and conditions. Refinance Mortgage is usually done to
 

@@ -4,8 +4,9 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, business cards
 Author: Suvodhoy Sinha
 Summary: How to create efficient online marketing campaigns for Business Cards
+Status: draft
 
-Business card is a small card printed with one's name, occupation, business address, etc.
+Business card is a small card printed with one`s name, occupation, business address, etc.
 
 Main Advertisers for Business Cards are 
 

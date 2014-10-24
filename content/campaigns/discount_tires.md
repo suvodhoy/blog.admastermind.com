@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, discount tires
 Author: Salil Panikkaveettil
 Summary: How to create efficient online marketing campaigns for discount tires
+Status: draft
 
 Discount Tires is a tire and wheel retailer company based out of Arizona. It provides tires at discounted prices coupled with fair dealing, reasonable prices and top-notch customer service.
 

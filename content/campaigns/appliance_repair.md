@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, appliance repair
 Author: Suvodhoy Sinha
 Summary: How to create efficient online marketing campaigns for Appliance Repair
+Status: draft
 
 Appliance repair constitutes of Repair and servicing of consumer appliances, such as ranges, refrigerators, dryers, water heaters, washers, and dishwashers.
 

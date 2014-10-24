@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, health insurance
 Author: Suvodhoy Sinha
 Summary: How to create efficient online marketing campaigns for Health Insurance
+Status: draft
 
 Health insurance is a type of insurance coverage that pays for medical and surgical expenses that are incurred by the insured. Health insurance can either reimburse the insured for expenses incurred from illness or injury or pay the care provider directly
 

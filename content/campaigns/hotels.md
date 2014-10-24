@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, hotels
 Author: Suvodhoy Sinha
 Summary: How to create efficient online marketing campaigns for Hotels
+Status: draft
 
 Hotel is an establishment providing accommodation, meals, and other services for travellers and tourists, by the night.
 

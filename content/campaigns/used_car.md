@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, used cars services
 Author: Suvodhoy Sinha
 Summary: How to create efficient online marketing campaigns for Used Cars Services
+Status: draft
 
 Used Cars Services are dealers who are responsible for selling vehicles that have previously had one or more retail owners. 
 

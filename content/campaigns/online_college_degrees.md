@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, online college degrees
 Author: Suvodhoy Sinha
 Summary: How to create efficient online marketing campaigns for Online College Degrees
+Status: draft
 
 Online degree is a college degree earned mainly or completely by taking online courses.
 

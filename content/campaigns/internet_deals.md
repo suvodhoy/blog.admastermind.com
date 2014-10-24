@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, internet deals
 Author: Salil Panikkaveettil
 Summary: How to create efficient online marketing campaigns for internet deals
+Status: draft
 
 Internet Deals are promotional offers provided by various internet service providers to acquire new customers as well as to retain existing ones
 

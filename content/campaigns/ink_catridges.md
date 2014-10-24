@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, ink catridges
 Author: Salil Panikkaveettil
 Summary: How to create efficient online marketing campaigns for ink catridges
+Gumroad: XdQP
 
 An ink cartridge or is a component of an inkjet printer that contains the ink needed for printing. The Ink is deposited onto paper from the catridge during printing
 
@@ -25,5 +26,5 @@ Top Keywords related to ink catridges are as follows
 - canon ink catridges
 - black ink catridges
 
-We have created a [free adwords campaign for ink catridges]("free adwords campaign for ink catridges"). Feel free to download and use it
+We have created a [free adwords campaign for ink catridges](https://gumroad.com/l/XdQP "free adwords campaign for ink catridges"). Feel free to download and use it
 

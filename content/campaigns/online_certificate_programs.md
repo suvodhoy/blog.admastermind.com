@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, online certificate programs
 Author: Salil Panikkaveettil
 Summary: How to create efficient online marketing campaigns for Online Certificate Programs
+Status: draft
 
 An online certificate program is an academic degree that can be earned primarily or entirely through the use of an Internet-connected computer, rather than attending college in a traditional campus setting. Advantages include reduced cost and flexible schedules
 

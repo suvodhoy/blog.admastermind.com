@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, cable and internet providers
 Author: Suvodhoy Sinha
 Summary: How to create efficient online marketing campaigns for Cable & Internet Providers
+Status: draft
 
 An Internet service provider (ISP) is an organization that provides services for accessing, using, or participating in the Internet. Cable Internet is accessed via the cable companies. There are two kinds of service. One uses a cable modem to connect to a computer, and the other uses an enhanced cable box that provides Internet access directly at the TV.
 

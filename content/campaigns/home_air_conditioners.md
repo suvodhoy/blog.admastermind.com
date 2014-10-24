@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, home air conditioners
 Author: Salil Panikkaveettil
 Summary: How to create efficient online marketing campaigns for Home Air Conditioners
+Status: draft
 
 Home Air Conditioners varies the air temperature and humidity so that the conditions inside home are more comfortable.
 

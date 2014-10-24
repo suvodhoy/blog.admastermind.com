@@ -4,8 +4,9 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, bridal registry
 Author: Suvodhoy Sinha
 Summary: How to create efficient online marketing campaigns for Bridal Registry
+Status: draft
 
-Bridal Registry is a service offered by a shop in which a bridal couple's gift preferences are recorded so as to be available to family and friends when shopping at the store.
+Bridal Registry is a service offered by a shop in which a bridal couple`s gift preferences are recorded so as to be available to family and friends when shopping at the store.
 
 Main Advertisers for Bridal Registry are 
 

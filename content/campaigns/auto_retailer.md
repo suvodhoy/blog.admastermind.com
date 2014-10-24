@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, auto retailer
 Author: Suvodhoy Sinha
 Summary: How to create efficient online marketing campaigns for Auto Retailers
+Status: draft
 
 Auto Retailers are car dealership or vehicle local distribution businesses that sells new or used cars at the retail level, based on a dealership contract with an automaker or its sales subsidiary
 

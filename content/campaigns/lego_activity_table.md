@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, lego activity table
 Author: Salil Panikkaveettil
 Summary: How to create efficient online marketing campaigns for Lego Activity Table
+Status: draft
 
 Lego is a line of construction toys manufactured by [The Lego Group](http://www.lego.com/ "Lego manufacturer") which consists of colourful interlocking plastic bricks which can be assembled and connected in many ways, to construct objects such as vehicles and buildings
 

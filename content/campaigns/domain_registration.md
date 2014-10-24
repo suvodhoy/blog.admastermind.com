@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, domain registration
 Author: Suvodhoy Sinha
 Summary: How to create efficient online marketing campaigns for Domain Registration
+Status: draft
 
 Domain registration refers to the process of registering a domain name, which identifies one or more IP addresses with a name that is easier to remember and use in URLs to identify particular Web pages.
 

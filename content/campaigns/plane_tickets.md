@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, plane tickets
 Author: Suvodhoy Sinha
 Summary: How to create efficient online marketing campaigns for Plane Tickets
+Status: draft
 
 An airline ticket is a document, issued by an airline or a travel agency, to confirm that an individual has purchased a seat on a flight on an aircraft. This document is then used to obtain a boarding pass, at the airport.
 

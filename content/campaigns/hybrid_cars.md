@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, hybrid cars
 Author: Salil Panikkaveettil
 Summary: How to create efficient online marketing campaigns for hybrid cars
+Status: draft
 
 Hybrid Cars are those cars which can use mutiple power sources to move them. Usually Hybrid Cars come with an internal combustion engine and one or more electric motors.
 

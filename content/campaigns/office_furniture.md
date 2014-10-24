@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, office furniture
 Author: Salil Panikkaveettil
 Summary: How to create efficient online marketing campaigns for office furniture
+Status: draft
 
 Office Furniture are movable objects built inorder to support various activities like sitting, working in an office. Office Furniture are generally made from wood whereas steel and iron are sparingly used
 

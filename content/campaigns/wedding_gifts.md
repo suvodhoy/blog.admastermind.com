@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, wedding gifts
 Author: Suvodhoy Sinha
 Summary: How to create efficient online marketing campaigns for Wedding Gifts
+Status: draft
 
 Wedding Gifts are presents given to someone getting married.
 

@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, gift baskets
 Author: Suvodhoy Sinha
 Summary: How to create efficient online marketing campaigns for Gift Baskets
+Status: draft
 
 A gift basket, or fruit basket is typically a gift delivered to the recipient at their home or workplace.
 

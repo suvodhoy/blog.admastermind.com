@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, email marketing software
 Author: Salil Panikkaveettil
 Summary: How to create efficient online marketing campaigns for email marketing software
+Gumroad: SFzjx
 
 Email Marketing Software allows people to send email in large quantities to a targeted group of users. They usually comes along with an option to create mailing lists and can store additional information about the user such as location, age etc.
 
@@ -25,5 +26,5 @@ Top Keywords related to email marketing software are as follows
 - email marketing software review
 - targeted email marketing software
 
-We have created a [free adwords campaign for email marketing software]("free adwords campaign for email marketing software"). Feel free to download and use it
+We have created a [free adwords campaign for email marketing software](https://gumroad.com/l/SFzjx "free adwords campaign for email marketing software"). Feel free to download and use it
 

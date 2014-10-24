@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, credit cards
 Author: Suvodhoy Sinha
 Summary: How to create efficient online marketing campaigns for Credit Cards
+Status: draft
 
 A credit card is a small plastic card issued by a bank, building society, etc., allowing the holder to purchase goods or services on credit.
 

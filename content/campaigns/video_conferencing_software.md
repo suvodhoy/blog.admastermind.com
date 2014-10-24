@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, video conferencing software
 Author: Salil Panikkaveettil
 Summary: How to create efficient online marketing campaigns for video conferencing software
+Gumroad: lVQk
 
 Video Conferencing Software allows two or more people present at different locations to communicate by simultaneous two-way video and audio transmissions via internet. Most softwares allow video conferencing upto 15 participants and an option to stream the video in HD
 
@@ -25,5 +26,5 @@ Top Keywords related to video conferencing software are as follows
 - video conferencing solutions
 - video conferencing
 
-We have created a [free adwords campaign for video conferencing software]("free adwords campaign for video conferencing software"). Feel free to download and use it
+We have created a [free adwords campaign for video conferencing software](https://gumroad.com/l/lVQk "free adwords campaign for video conferencing software"). Feel free to download and use it
 

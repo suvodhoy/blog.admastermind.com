@@ -4,6 +4,7 @@ Category: campaigns
 Tags: online marketing, google adwords campaigns, window installation
 Author: Salil Panikkaveettil
 Summary: How to create efficient online marketing campaigns for window installation
+Gumroad: bfom
 
 Window installation service is provided across United States to install top quality windows which provide protection from storms and severe weather. Usually window installation comes with vinyl and wood finishes
 
@@ -25,5 +26,5 @@ Top Keywords related to window installation are as follows
 - window installation instructions
 - vinyl window installation
 
-We have created a [free adwords campaign for window installation]("free adwords campaign for window installation"). Feel free to download and use it
+We have created a [free adwords campaign for window installation](https://gumroad.com/l/bfom "free adwords campaign for window installation"). Feel free to download and use it
 
