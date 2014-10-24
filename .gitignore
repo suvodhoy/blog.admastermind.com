@@ -55,3 +55,4 @@ target/
 
 # Pelican folders
 cache/
+.idea/
