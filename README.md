@@ -1,4 +1,4 @@
-blog.admastermind.com
+blog.adnabu.com
 =====================
 
-blog for admastermind.com
+blog for adnabu.com

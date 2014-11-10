@@ -5,7 +5,7 @@ Tags: google adwords editor, tutorial
 Author: Salil Panikkaveettil
 Summary: This tutorial shows how to import a prebuilt adwords campaign csv file into google adwords editor and upload it.
 
-We at [Admastermind](https://www.admastermind.com/ "AdMasterMind Website") have created numerous [free adwords campaigns]({tag}google adwords campaigns "free adwords campaigns") for users to download and use. The following is a step by step procedure on how to use the csv file using adwords editor to start your adwords campaign.
+We at [AdNabu](https://www.adnabu.com/ "AdNabu Website") have created numerous [free adwords campaigns]({tag}google adwords campaigns "free adwords campaigns") for users to download and use. The following is a step by step procedure on how to use the csv file using adwords editor to start your adwords campaign.
 
 Download and Install Adwords Editor
 -----------------------------------

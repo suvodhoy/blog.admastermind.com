@@ -3,8 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Salil Panikkaveettil'
-SITENAME = u'AdMasterMind'
-SITEURL = 'https://blog.admastermind.com'
+SITENAME = u'AdNabu'
+SITEURL = 'https://blog.adnabu.com'
 
 PATH = 'content'
 
@@ -18,7 +18,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS = (('AdMasterMind', 'https://admastermind.com/'),)
+LINKS = (('AdNabu', 'https://adnabu.com/'),)
 
 # Social widget
 SOCIAL = (
@@ -36,10 +36,10 @@ EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'},
     'extra/robots.txt': {'path': 'robots.txt'}
 }
-DISQUS_SITENAME = "admastermind"
+DISQUS_SITENAME = "adnabu"
 GTM_ID = "GTM-WSW63N"
 THEME = "themes/notmyidea"
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['sitemap', 'related_posts']
 RELATED_POSTS_MAX = 5
-MENUITEMS = (("AdMasterMind", "https://www.admastermind.com"),)
+MENUITEMS = (("AdNabu", "https://www.adnabu.com"),)
